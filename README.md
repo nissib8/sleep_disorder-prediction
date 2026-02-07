@@ -1,4 +1,4 @@
-💤 Sleep Disorder Prediction System
+💤 Sleep Disorder Prediction System:
 
 A machine learning–based web application that predicts sleep disorders such as Insomnia and Sleep Apnea based on lifestyle and health-related factors. The project aims to assist in early awareness and encourage timely medical consultation.
 
